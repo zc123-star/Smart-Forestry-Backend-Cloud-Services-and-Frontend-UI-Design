@@ -25,6 +25,7 @@ AI 工具集界面聚焦研究人员专业需求，实现模型推理与可视�
 图4-5-3  银杏状态图片识别功能
 
 光谱数据分析：手动输入 21 个光谱特征值，提供数据校验；点击后触发TS脚本，把文本数据放入POST请求的Body中，调用后端API并返回结果显示，结果以进度条样式方便用户进行对比观察。、
+
 <img width="629" height="318" alt="image" src="https://github.com/user-attachments/assets/c0165a73-eff7-4e75-9dbc-0411020f1ce1" />
 
 图4-5-4  多光谱识别功能
