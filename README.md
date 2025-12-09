@@ -51,7 +51,8 @@ AI 工具集界面聚焦研究人员专业需求，实现模型推理与可视�
 <img width="915" height="457" alt="image" src="https://github.com/user-attachments/assets/b3b924ba-45a7-4c4b-bedb-9682b73093f7" />
 
 图4-5-8  PC网页端界面（2）
-<img width="291" height="633" alt="image" src="https://github.com/user-attachments/assets/2f089aaf-f239-410e-98de-02d571744c8c" /><img width="289" height="627" alt="image" src="https://github.com/user-attachments/assets/d6ad62e5-0a29-4c82-b299-3692dd93fbe2" /><img width="289" height="628" alt="image" src="https://github.com/user-attachments/assets/34fd73ae-9946-40d6-9b1e-960f5a591342" />
+
+<img width="291" height="633" alt="image" src="https://github.com/user-attachments/assets/2f089aaf-f239-410e-98de-02d571744c8c" /> <img width="289" height="627" alt="image" src="https://github.com/user-attachments/assets/d6ad62e5-0a29-4c82-b299-3692dd93fbe2" /> <img width="289" height="628" alt="image" src="https://github.com/user-attachments/assets/34fd73ae-9946-40d6-9b1e-960f5a591342" />
 
 图4-5-9  移动端APP界面 
 
